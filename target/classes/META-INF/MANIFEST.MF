@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: luisf
+Build-Jdk: 17.0.4
+Implementation-Title: backendportafolio
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: portafolio
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/backendportafo
+ lio/
+Created-By: Maven Integration for Eclipse
+
